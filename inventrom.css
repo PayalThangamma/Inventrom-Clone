@@ -1,0 +1,192 @@
+.invetrom-header
+{
+	position:  fixed;
+	left: 0px;
+	right: 0px;
+	height: 50px;
+	width: 100%;
+	background-color: white;
+}
+.logo
+{
+	padding-left: 100px;
+	height: 50%;
+	margin: 10px;
+	float: left;
+}
+.logo img
+{
+	height: 50px;
+	width: 100px;
+}
+.inventrom-nav
+{
+	float: right;
+	height: 80%;
+	margin-right: 100px;
+	padding-top: 20px;
+}
+.inventrom-nav a{
+	color: #0a0a0a;
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: 700;
+	font-family: sans-serif;
+	padding-right: 20px;
+	padding-top: 5%;
+	display: inline-block;
+}
+#content
+{
+	position: absolute;
+	top: 60px;
+	width: 100%;
+}
+.content-img
+{
+	background-image: url("img/back.jpg");
+	height: 700px;
+	width: 100%;
+	text-align: center;
+}
+.text{
+	color: white;
+	font-family: sans-serif;
+	position: relative;
+	padding-top: 20%;
+	padding-left: 50px;
+	width: 90%;
+	text-align: center;
+	font-size: 40px;
+}
+.click
+{
+	text-align: center;
+	color: white;
+	text-decoration: none;
+}
+#cards
+{
+	width: 100%;
+}
+#cards p{
+	width: 70%;
+	padding-left: 200px;
+	text-align: center;
+	margin: 5px;
+}
+#about{
+	text-align: center;
+	color: green;
+}
+.card1{
+	width: 40%;
+	height: 300px;
+	padding: 5%;
+	float: left;
+	text-align: center;
+}
+.card1 img{
+	width: 100%;
+}
+.card2{
+	width: 40%;
+	height: 300px;
+	padding: 5%;
+	float: left;
+	text-align: center;
+}
+.card2 img{
+	width: 100%;
+}
+#baward
+{
+	font-size: 25px;
+	text-align: center;
+}
+#award{
+	color: green;
+	margin-top: 550px;
+	text-align: center;
+}
+#awards
+{
+	text-align: center;
+}
+.award1{
+	width: 20%;
+	height: 300px;
+	padding: 1.5%;
+	float: left;
+	text-align: center;
+}
+.award1 img{
+	width: 100%;
+}
+.award2{
+	width: 20%;
+	height: 300px;
+	padding: 1.5%;
+	float: left;
+	text-align: center;
+}
+.award2 img{
+	width: 100%;
+}
+.award3{
+	width: 20%;
+	height: 300px;
+	padding: 1.5%;
+	float: left;
+	text-align: center;
+}
+.award3 img{
+	width: 100%;
+}
+.award4{
+	width: 20%;
+	height: 300px;
+	padding: 1.5%;
+	float: left;
+	text-align: center;
+}
+.award4 img{
+	width: 100%;
+}
+#getintouch{
+	margin-top: 350px;
+	text-align: center;
+	color: green;
+}
+.location {
+  color: rgb(99, 99, 99);
+  margin-bottom: 20px;
+  width: 450px;
+  margin-left: 50px;
+  float: right;
+}
+.location-title {
+  color: black;
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 30px;
+}
+.contactus {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+.footer {
+  margin-top: 500px;
+  background-color: rgb(14, 94, 14);
+  color: white;
+  font-size: 12px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px;
+}
+#greyarea
+{
+	background-color: rgb(240, 240, 240);
+}
